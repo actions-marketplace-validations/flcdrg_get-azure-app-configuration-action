@@ -52,7 +52,7 @@
     "jest-runner-groups": "^2.2.0",
     "js-yaml": "^4.2.0",
     "nerdbank-gitversioning": "^3.10.85",
-    "prettier": "3.8.4",
+    "prettier": "3.9.5",
     "rollup": "^4.62.2",
     "ts-jest": "^29.4.11",
     "typescript": "^5.9.3"
